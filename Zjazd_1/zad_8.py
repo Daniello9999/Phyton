@@ -1,5 +1,5 @@
 
-print (podaj_wymiary [cm]: "))
+int(input (podaj_wymiary [cm]: "))
 
 a = int(input("wysokość: "))
 b = int(input("szerokość: "))

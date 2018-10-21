@@ -32,4 +32,4 @@ while True:
         break
 print(f"Połoźenie skarbu: x={s_x}, y={s_y}")
 print(f"Połoźenie gracza: x={g_x}, y={g_y}")
-print(min_liczba_krokow)
+print(min_liczba_krokow_po)
